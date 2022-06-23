@@ -1,4 +1,4 @@
-aux_data
+**/data/**
 .ipynb_checkpoints
 bin
 notes

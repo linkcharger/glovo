@@ -1,0 +1,312 @@
+AT11, Burgenland
+AT12, Niederösterreich
+AT13, Wien
+AT21, Kärnten
+AT22, Steiermark
+AT31, Oberösterreich
+AT32, Salzburg
+AT33, Tirol
+AT34, Vorarlberg
+BE10, Région de Bruxelles-Capitale /Brussels Hoofdstedelijk Gewest
+BE21, Prov. Antwerpen
+BE22, Prov. Limburg
+BE23, Prov. Oost-Vlaanderen
+BE24, Prov. Vlaams-Brabant
+BE25, Prov. West-Vlaanderen
+BE31, Prov. Brabant Wallon
+BE32, Prov. Hainaut
+BE33, Prov. Liège
+BE34, Prov. Luxembourg
+BE35, Prov. Namur
+BG311, Vidin
+BG312, Montana
+BG313, Vratsa
+BG314, Pleven
+BG315, Lovech
+BG321, Veliko Tarnovo
+BG322, Gabrovo
+BG323, Ruse
+BG324, Razgrad
+BG325, Silistra
+BG331, Varna
+BG332, Dobrich
+BG333, Shumen
+BG334, Targovishte
+BG341, Burgas
+BG342, Sliven
+BG343, Yambol
+BG344, Stara Zagora
+BG411, Sofia (capital)
+BG412, Sofia (region)
+BG413, Blagoevgrad
+BG414, Pernik
+BG415, Kyustendil
+BG421, Plovdiv
+BG422, Haskovo
+BG423, Pazardzhik
+BG424, Smolyan
+BG425, Kardzhali
+CH01, Région lémanique
+CH02, Espace Mittelland
+CH03, Nordwestschweiz
+CH04, Zürich
+CH05, Ostschweiz
+CH06, Zentralschweiz
+CH07, Ticino
+CY0, Cyprus
+CZ010, Hlavní mesto Praha
+CZ020, Stredoceský kraj
+CZ031, Jihoceský kraj
+CZ032, Plzenský kraj
+CZ041, Karlovarský kraj
+CZ042, Ústecký kraj
+CZ051, Liberecký kraj
+CZ052, Královéhradecký kraj
+CZ053, Pardubický kraj
+CZ063, Vysocina
+CZ064, Jihomoravský kraj
+CZ071, Olomoucký kraj
+CZ072, Zlínský kraj
+CZ080, Moravskoslezský kraj
+DE1, Baden-Württemberg
+DE2, Bayern
+DE3, Berlin
+DE4, Brandenburg
+DE5, Bremen
+DE6, Hamburg
+DE7, Hessen
+DE8, Mecklenburg-Vorpommern
+DE9, Niedersachsen
+DEA, Nordrhein-Westfalen
+DEB, Rheinland-Pfalz
+DEC, Saarland
+DED, Sachsen
+DEE, Sachsen-Anhalt
+DEF, Schleswig-Holstein
+DEG, Thüringen
+EE001, Põhja-Eesti
+EE004, Lääne-Eesti
+EE006, Kesk-Eesti
+EE007, Kirde-Eesti
+EE008, Lõuna-Eesti
+FI193, Keski-Suomi
+FI194, Etelä-Pohjanmaa
+FI195, Pohjanmaa
+FI196, Satakunta
+FI197, Pirkanmaa
+FI1B1, Helsinki-Uusimaa
+FI1C1, Varsinais-Suomi
+FI1C2, Kanta-Häme
+FI1C3, Päijät-Häme
+FI1C4, Kymenlaakso
+FI1C5, Etelä-Karjala
+FI1D1, Etelä-Savo
+FI1D2, Pohjois-Savo
+FI1D3, Pohjois-Karjala
+FI1D4, Kainuu
+FI1D5, Keski-Pohjanmaa
+FI1D6, Pohjois-Pohjanmaa
+FI1D7, Lappi
+FI200, Åland
+FR10, Île de France
+FRB0, Centre-Val de Loire
+FRC1, Bourgogne
+FRC2, Franche-Comté
+FRD1, Basse-Normandie
+FRD2, Haute-Normandie
+FRE1, Nord-Pas de Calais
+FRE2, Picardie
+FRF1, Alsace
+FRF2, Champagne-Ardenne
+FRF3, Lorraine
+FRG0, Pays de la Loire
+FRH0, Bretagne
+FRI1, Aquitaine
+FRI2, Limousin
+FRI3, Poitou-Charentes
+FRJ1, Languedoc-Roussillon
+FRJ2, Midi-Pyrénées
+FRK1, Auvergne
+FRK2, Rhône-Alpes
+FRL0, Provence-Alpes-Côte d’Azur
+HU110, Budapest
+HU120, Pest
+HU211, Fejer
+HU212, Komarom-Esztergom
+HU213, Veszprem
+HU221, Gyor-Moson-Sopron
+HU222, Vas
+HU223, Zala
+HU231, Baranya
+HU232, Somogy
+HU233, Tolna
+HU311, Borsod-Abauj-Zemplen
+HU312, Heves
+HU313, Nograd
+HU321, Hajdu-Bihar
+HU322, Jasz-Nagykun-Szolnok
+HU323, Szabolcs-Szatmár-Bereg
+HU331, Bács-Kiskun
+HU332, Békés
+HU333, Csongrád
+IE041, Border
+IE042, West
+IE051, Mid-west
+IE052, South East
+IE053, South-West
+IE061, Dublin
+IE062, Mid-East
+IE063, Midlands
+ITC, Nord-Ovest
+ITF, Sud
+ITG, Isole
+ITH, Nord-Est
+ITI, Centro
+NL11, Groningen
+NL12, Friesland
+NL13, Drenthe
+NL21, Overijssel
+NL22, Gelderland
+NL23, Flevoland
+NL31, Utrecht
+NL32, Noord-Holland
+NL33, Zuid-Holland
+NL34, Zeeland
+NL41, Noord-Brabant
+NL42, Limburg
+NO01, Oslo og Akershus
+NO02, Hedmark og Oppland
+NO03, Sør-Østlandet
+NO04, Agder og Rogaland
+NO05, Vestlandet
+NO06, Trøndelag
+NO07, Nord-Norge
+PL11, Lodzkie
+PL12, Mazowieckie
+PL21, Malopolskie
+PL22, Slaskie
+PL31, Lubelskie
+PL32, Podkarpackie
+PL33, Swietokrzyskie
+PL34, Podlaskie
+PL41, Wielkopolskie
+PL42, Zachodniopomorskie
+PL43, Lubuskie
+PL51, Dolnoslaskie
+PL52, Opolskie
+PL61, Kujawsko-pomorskie
+PL62, Warminsko-mazurskie
+PL63, Pomorskie
+RS11, Beogradski region
+RS12, Region Vojvodine
+RS21, Region Šumadije i Zapadne Srbije
+RS22, Region Južne i Istočne Srbije
+SI011, Pomurska
+SI012, Podravska
+SI013, Koroska
+SI014, Savinjska
+SI015, Zasavska
+SI016, Spodnjeposavska
+SI017, Jugovzhodna Slovenija
+SI018, Notranjsko-kraska
+SI021, Osrednjeslovenska
+SI022, Gorenjska
+SI023, Goriska
+SI024, Obalno-kraska
+UKC, North East (England)
+UKD, North West (England)
+UKE, Yorkshire and the Humber
+UKF, East Midlands (England)
+UKG, West Midlands (England)
+UKH, East of England
+UKI, London
+UKJ, South East (England)
+UKK, South West (England)
+UKL, Wales
+UKM, Scotland
+UKN, Northern Ireland
+SE11, Stockholms län
+SE12, Östra Mellansverige
+SE21, Småland med Öarna
+SE22, Sydsverige
+SE23, Västsverige
+SE31, Norra Mellansverige
+SE32, Mellersta Norrland
+SE33, Övre Norrland
+LT001, Alytaus apskritis
+LT002, Kauno apskritis
+LT003, Klaipedos apskritis
+LT004, Marijampoles apskritis
+LT005, Panevežio apskritis
+LT006, Šiauliu apskritis
+LT007, Taurages apskritis
+LT008, Telšiu apskritis
+LT009, Utenos apskritis
+LT00A, Vilniaus apskritis
+ME0, Montenegro
+SK010, Bratislavský kraj
+SK021, Trnavský kraj
+SK022, Trenčiansky kraj
+SK023, Nitriansky kraj
+SK031, Žilinský kraj
+SK032, Banskobystrický kraj
+SK041, Prešovský kraj
+SK042, Košický kraj
+PT11, Norte
+PT15, Algarve
+PT16, Centro
+PT17, Lisboa
+PT18, Alentejo
+LV003, Kurzeme
+LV005, Latgale
+LV006, Rīga
+LV007, Pierīga
+LV008, Vidzeme
+LV009, Zemgale
+HR041, Grad Zagreb
+HR042, Zagrebačka županija
+HR043, Krapinsko-zagorska županija
+HR044, Varaždinska županija
+HR045, Koprivničko-križevačka županija
+HR046, Međimurska županija
+HR047, Bjelovarsko-bilogorska županija
+HR048, Virovitičko-podravska županija
+HR049, Požeško-slavonska županija
+HR04A, Brodsko-posavska županija
+HR04B, Osječko-baranjska županija
+HR04C, Vukovarsko-srijemska županija
+HR04D, Karlovačka županija
+HR04E, Sisačko-moslavačka županija
+HR031, Primorsko-goranska županija
+HR032, Ličko-senjska županija
+HR033, Zadarska županija
+HR034, Šibensko-kninska županija
+HR035, Splitsko-dalmatinska županija
+HR036, Istarska županija
+HR037, Dubrovačko-neretvanska županija
+ES11, Galicia
+ES12, Principado de Asturias
+ES13, Cantabria
+ES21, País Vasco
+ES22, Comunidad Foral de Navarra
+ES23, La Rioja
+ES24, Aragón
+ES30, Comunidad de Madrid
+ES41, Castilla y León
+ES42, Castilla-La Mancha
+ES43, Extremadura
+ES51, Cataluña
+ES52, Comunidad Valenciana
+ES53, Illes Balears
+ES61, Andalucía
+ES62, Región de Murcia
+ES63, Ciudad Autónoma de Ceuta
+ES64, Ciudad Autónoma de Melilla
+ES70, Canarias
+DK01, Hovedstaden
+DK02, Sjælland
+DK03, Syddanmark
+DK04, Midtjylland
+DK05, Nordjylland
+IS001, Höfuðborgarsvæði (Capital Region)
+IS002, Landsbyggð (rest of country)
