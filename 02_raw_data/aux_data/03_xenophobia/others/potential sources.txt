@@ -1,0 +1,28 @@
+https://www.inclusion.gob.es/oberaxe/en/publicaciones/temas/tema_04.htm
+	- seems to be exactly what we want, but only PDF reports, no data
+	- maybe have to write them and initiate a partnership
+
+https://www.coe.int/en/web/european-commission-against-racism-and-intolerance/spain
+	- the lastest report (https://rm.coe.int/fifth-report-on-spain/16808b56c9) states that there are extensive statistics for hate speech and hate crime, but where?
+
+https://hatecrime.osce.org/index.php/incidents?country=ES
+	- manually reported hate crimes - very limited, no location as far as i can see
+
+https://fra.europa.eu/en/publication/2017/second-european-union-minorities-and-discrimination-survey-main-results#publication-tab-1
+	- survey exists, but doesnt have the resolution i think
+
+
+maybe: Carlota Solé: The labor market and racial discrimination in Spain ( Journal of Ethnic and Migration Studies , 2003)
+	- but: old
+
+
+
+
+================ other things i've tried ==============
+	- hospital admissions and discharges (looking for hate crime injuries)
+	- deaths by hate crime or nationality
+	- 
+
+
+
+next: scholarly articles on discrimination/xenophobia/hate crimes in spain
